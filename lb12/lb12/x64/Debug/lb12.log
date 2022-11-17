@@ -1,0 +1,13 @@
+﻿  Source.c
+C:\Users\росен\source\repos\lb12\lb12\Source.c(11,9): warning C4477: "printf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "size_t"
+C:\Users\росен\source\repos\lb12\lb12\Source.c(11,9): message : рекомендуется использовать "%zu" в строке форматирования
+C:\Users\росен\source\repos\lb12\lb12\Source.c(12,9): warning C4477: "printf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "size_t"
+C:\Users\росен\source\repos\lb12\lb12\Source.c(12,9): message : рекомендуется использовать "%zu" в строке форматирования
+C:\Users\росен\source\repos\lb12\lb12\Source.c(13,9): warning C4477: "printf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "size_t"
+C:\Users\росен\source\repos\lb12\lb12\Source.c(13,9): message : рекомендуется использовать "%zu" в строке форматирования
+C:\Users\росен\source\repos\lb12\lb12\Source.c(14,9): warning C4477: "printf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "size_t"
+C:\Users\росен\source\repos\lb12\lb12\Source.c(14,9): message : рекомендуется использовать "%zu" в строке форматирования
+C:\Users\росен\source\repos\lb12\lb12\Source.c(16,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\росен\source\repos\lb12\lb12\Source.c(29,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\росен\source\repos\lb12\lb12\Source.c(30,1): warning C4047: инициализация: "float *" отличается по уровням косвенного обращения от "float (*)[10]"
+  lb12.vcxproj -> C:\Users\росен\source\repos\lb12\x64\Debug\lb12.exe
